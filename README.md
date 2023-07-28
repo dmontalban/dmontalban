@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm David Montalbán</h1>
 <h3 align="center">A passionate Data Analyst from Mallorca</h3>
 
-- 🔭 I’m currently working as **Senior Data Analayst**
+ - 👉 About me: I am a **Data analyst** with experience in internatonal companies and passionate about data world.
 
-- 👯 I’m looking to collaborate on **projects related to Data world**
+ - 💻 IT Skills: SQL, Python, R, Microsoft Office + BI visualisations.
 
-- 📫 Contact me at **dav.montalban@gmail.com**
+ - 📊 Core skills: Quantitative and qualitative analysis, Benchmarking, Project Management, Forecasting, Data Segmentation, ETL processes and Testing & Predictive Models.
 
-- 👉 About me:
-  
-  I am a **Data analyst** with experience in internatonal companies and passionate about data world.
+ - 👯 I’m looking to collaborate on **projects related to Data world**
 
-  IT Skills: SQL, Python, R, Microsoft Office + BI visualisations.
-
-  Core skills: Quantitative and qualitative analysis, Benchmarking, Project Management, Forecasting, Data Segmentation, ETL processes and Testing & Predictive Models.
+ - 📫 Contact me at **dav.montalban@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
