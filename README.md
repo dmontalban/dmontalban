@@ -1,5 +1,8 @@
+![image](https://github.com/dmontalban/dmontalban/assets/140738097/d3bed1fb-a418-4706-a263-fbb4eadf15b0)
+
+
 <h1 align="center">Hi 👋, I'm David Montalbán</h1>
-<h3 align="center">A passionate Data Analyst from Mallorca</h3>
+<h3 align="center">Passionate Data Analyst from Mallorca</h3>
 
  - 👉 About me: I am a **Data analyst** with experience in internatonal companies and passionate about data world.
 
