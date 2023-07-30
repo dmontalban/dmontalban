@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm David Montalbán</h1>
-<h3 align="center">Passionate Data Analyst from Mallorca</h3>
+<h3 align="center">Data Analyst from Mallorca</h3>
 
  - 👉 About me: I am a **Data analyst** with experience in internatonal companies and passionate about data world.
 
