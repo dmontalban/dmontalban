@@ -10,7 +10,7 @@
 
  - 📊 Core skills: Quantitative and qualitative analysis, Benchmarking, Project Management, Forecasting, Data Segmentation, ETL processes and Testing & Predictive Models.
 
- - 👯 I’m looking to collaborate on **projects related to Data world**
+ - 👯 I’m looking to collaborate on **projects related to Data world:** data analytics, data science, data engineer, big data engineer or similar.
 
  - 📫 Contact me at **dav.montalban@gmail.com**
 
