@@ -17,7 +17,7 @@ I turn commercial and financial data into decisions: KPIs people trust, data mod
 
 ## Featured project
 
-### [Bedbank analytics demo](davidprojectsportfolio.netlify.app)
+### Bedbank analytics demo
 
 From a messy booking feed to decisions, on synthetic data of a fictional B2B accommodation wholesaler:
 
