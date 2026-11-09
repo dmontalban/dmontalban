@@ -1,22 +1,36 @@
-![image](https://github.com/dmontalban/dmontalban/assets/140738097/d3bed1fb-a418-4706-a263-fbb4eadf15b0)
+# David Montalbán
 
+**Senior Performance & Data Analyst** · Palma de Mallorca, Spain (CET) · Remote
 
-<h1 align="center">Hi 👋, I'm David Montalbán</h1>
-<h3 align="center">Data Analyst from Mallorca</h3>
+I turn commercial and financial data into decisions: KPIs people trust, data models that are tested, and forecasts finance can plan with. 7+ years in travel, technology and e-commerce, including B2B travel tech.
 
- - 👉 About me: I am a **Data analyst** with experience in internatonal companies and passionate about data world.
+[Portfolio](https://davidprojectsportfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/david-montalb%C3%A1n-290584185/) · [dav.montalban@gmail.com](mailto:dav.montalban@gmail.com)
 
- - 💻 IT Skills: SQL, Python, R, Microsoft Office + BI visualisations.
+---
 
- - 📊 Core skills: Quantitative and qualitative analysis, Benchmarking, Project Management, Forecasting, Data Segmentation, ETL processes and Testing & Predictive Models.
+## What I work on
 
- - 👯 I’m looking to collaborate on **projects related to Data world:** data analytics, data science, data engineer, big data engineer or similar.
+- **KPI frameworks and BI dashboards:** Power BI (DAX, Power Query), Tableau
+- **Analytics engineering:** dbt on Snowflake, SQL, Airflow, data modelling
+- **Forecasting, budgeting and planning:** backtests, driver-based scenarios
+- **Reporting automation and data quality:** SQL, Python, reconciliations
 
- - 📫 Contact me at **dav.montalban@gmail.com**
+## Featured project
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/david-montalb%c3%a1n-290584185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-montalb%c3%a1n-290584185/" height="30" width="40" /></a>
-</p>
+### [Bedbank analytics demo](https://github.com/TU-USUARIO/bedbank-analytics-demo)
 
+From a messy booking feed to decisions, on synthetic data of a fictional B2B accommodation wholesaler:
 
+- A tested **dbt + DuckDB** pipeline: 17 models, 71 tests, and a data-quality log that proves no row was lost
+- A **price-volume-mix-rate bridge** that explains why revenue moved (+4.4% YoY over the last 12 months)
+- A **backtested forecast** against a seasonal benchmark, the FY2026 landing versus budget, and a driver-based scenario planner
+
+Interactive demo: [davidprojectsportfolio.netlify.app](https://davidprojectsportfolio.netlify.app/)
+
+## Stack
+
+`SQL` `dbt` `Snowflake` `Python` `Power BI` `Tableau` `Airflow` `Excel` `Azure`
+
+## Currently
+
+Data Consultant at Recodme, working with the Data & Analytics team of TUI Group. Open to remote Lead/Senior Data Analyst roles and B2B/freelance projects.
